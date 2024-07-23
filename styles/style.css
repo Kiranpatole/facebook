@@ -1,0 +1,78 @@
+body{
+    background-color: #c6d5e857;
+}
+.div1{
+    width: 300px;
+    height: 300px; 
+    margin-right: 350px;
+    margin-top: 250px;
+    margin-left: 90px;
+   
+    
+}
+
+.div2{
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    margin-top: 150px;
+   margin-right: 50px;
+   background-color: white;
+   border-radius: 2%;
+   
+    
+
+}
+.maindiv{
+    display:flex;
+
+   
+}
+.facebooklogo{
+    height: 80px;
+    width: 400px;
+}
+.paragraph{
+    font-size:large;
+}
+
+input{
+    width: 90%;
+    height: 30px;
+    margin-bottom: 10px;
+    border: 1px rgb(108, 102, 102) solid;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: larger;
+    margin-top: 10px;
+}
+.login{
+    background-color: blue;
+    height: 50px;
+    width: 95%;
+    border:1px rgb(186, 175, 175) ;
+    border-radius: 8px;
+    font-size:larger;
+    color: white;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+
+}
+.signup{
+    background-color: rgb(16, 176, 62);
+    height: 50px;
+    width: 65%;
+    border:1px rgb(186, 175, 175) ;
+    border-radius: 8px;
+    font-size:medium;
+    color: white;
+    margin-top: 30px;
+
+}
+.paragraph2{
+    margin-left: 800px;
+margin-bottom: 100px;
+   
+}

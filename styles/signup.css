@@ -1,0 +1,138 @@
+.facebooklogo{
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    
+    
+    
+    
+}
+.div2{
+    margin-left: 200px;
+    margin-bottom: 100px;
+    
+    
+}
+
+.maincontanior{
+    background-color: white;
+    height: 700px;
+    width: 500px;
+    margin-left: 350px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 200px;
+    margin-top: -70px;
+}
+ body{
+    background-color:  #c6d5e857;
+    
+ }
+ input [type=text] { 
+    width: 120px;
+    height: 200px;
+    font-size: large;
+
+   
+ }
+ input[type=password]{
+    width: 400px;
+    height: 30px;
+    border: 1px rgb(108, 102, 102) solid;
+    border-radius: 5px;
+    font-size:medium;
+    padding: 5px;
+ }
+input[type=name]{
+    width: 160px;
+    height: 30px;
+    
+    border: 1px rgb(108, 102, 102) solid;
+    border-radius: 5px;
+    font-size:medium;
+    margin-left: 10px;
+    padding: 5px;
+    
+}
+input[type=surname]{
+    width: 160px;
+    margin-right: 10px;
+    border: 1px rgb(108, 102, 102) solid;
+    border-radius: 5px;
+    height: 30px;
+    font-size:medium;
+    padding: 5px;
+    
+
+}
+input[type=text]{
+    width: 400px;
+    height: 30px;
+    border: 1px rgb(108, 102, 102) solid;
+    border-radius: 5px;
+    font-size: medium;
+    padding: 5px;
+}
+
+ .signup{
+    background-color: rgba(11, 211, 41, 0.724);
+    width:200px;
+    height: 40px;
+    font-size:medium;
+    color: white;
+    border:1px rgb(186, 175, 175) ;
+    border-radius: 8px;
+    margin-bottom: 30px;
+ }
+ .paragraph{
+   font-size: small;
+ }
+ .dobcontanior{
+    grid-column: span 2;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+ }
+ .gender{
+    grid-column: auto;
+ }
+ .para{
+    font-size: small;
+    margin-top: 50px;
+ }
+ .genderm{
+   border: 1px solid gray;
+   width: 80px;
+   height: 30px;
+   margin-left: 40px;
+   border-radius: 5px;
+   display: inline-block;
+   
+   
+ } 
+ .genderf{
+   border: 1px solid gray;
+   width: 80px;
+   height: 30px;
+   border-radius: 5px;
+   display: inline-block;
+   margin-left: 20px;
+  
+ }
+ .other{
+   border: 1px solid gray;
+   width: 80px;
+   height: 30px;
+   border-radius: 5px; 
+   display: inline-block;
+   margin-bottom: 1px;
+   margin-top: 50px;
+   margin-left: 20px ;
+   
+
+ }
+ .maindiv{
+   display:inline-block;
+   
+ }
